@@ -1,5 +1,7 @@
 # Gamepad trainer
 
+[![Node CI](https://github.com/KatKaterina/gamepad-trainer/actions/workflows/nodejs.yml/badge.svg)](https://github.com/KatKaterina/gamepad-trainer/actions/workflows/nodejs.yml)
+
 An application for training user interaction with a gamepad connected to a PC.
 
 It is possible to adjust
